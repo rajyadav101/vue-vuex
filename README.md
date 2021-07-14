@@ -1,4 +1,4 @@
-# events-app
+# Vue-vues
 
 ## Project setup
 ```
