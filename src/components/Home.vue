@@ -6,7 +6,6 @@
   <button @click="decriment">Down vote</button>
 </template>
 
-// JavaScript
 <script>
 import store from "../store";
 
